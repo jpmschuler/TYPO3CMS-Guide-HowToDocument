@@ -86,6 +86,8 @@ Workflow #1: "Edit on GitHub"
 
    .. image:: ../images/github-create-pull-request2.png
       :class: with-border with-shadow
+      
+   If you know that a change is necessary for multiple releases you can create one pull request, e.g. to master and mention all releases in the comment, e.g.  `Releases: master, 10LTS, 9LTS`
 
 10. You're done!
 
